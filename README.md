@@ -27,7 +27,7 @@
 <br>
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sturua-tsotne&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)   ---   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sturua-tsotne&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sturua-tsotne&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)   ---   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sturua-tsotne&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <br>
