@@ -1,5 +1,6 @@
 ###  Hi there, I'm [tsotne sturua](https://www.linkedin.com/in/tsotne-sturua-563979199/) 👋
 
+
 ## Tools
 
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -17,6 +18,15 @@
 <img align="left" src="https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker" />
 
 <img align="left" src="https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=orange" />
+
+
+
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sturua-tsotne&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sturua-tsotne&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
