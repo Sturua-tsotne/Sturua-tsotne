@@ -32,7 +32,7 @@
 <br>
 <br>
 <br>
-
+---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sturua-tsotne&theme=dracula&area=true)](https://github.com/Sturua-tsotne/)
 
 
