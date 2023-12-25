@@ -28,9 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sturua-tsotne&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<br>
-
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sturua-tsotne&theme=dracula&area=true)](https://github.com/Sturua-tsotne/)
